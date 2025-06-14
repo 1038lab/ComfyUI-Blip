@@ -1,0 +1,16 @@
+[project]
+name = "ComfyUI-Blip"
+description = "A lightweight and high-speed ComfyUI custom node for generating image captions using BLIP models. Optimized for both GPU and CPU environments to deliver fast and efficient caption generation."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+dependencies = ["transformers", "accelerate", "pillow", "huggingface_hub"]
+    
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-Blip"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-Blip"
+Icon = ""
