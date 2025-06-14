@@ -35,12 +35,12 @@ If automatic download fails, you can manually download the models:
 
 1. Base model:
 ```
-https://huggingface.co/Salesforce/blip-image-captioning-base/resolve/main
+https://huggingface.co/Salesforce/blip-image-captioning-base/tree/main
 ```
 
 2. Large model:
 ```
-https://huggingface.co/Salesforce/blip-image-captioning-large/resolve/main
+https://huggingface.co/Salesforce/blip-image-captioning-large/tree/main
 ```
 
 Download the following files and place them in the corresponding directories:
